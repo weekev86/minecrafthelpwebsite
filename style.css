@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+}
+
+#menubar{
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#menubar a{
+    color: darkgreen;
+}
+
+#menubar a:hover{
+    color: white;
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+}
+
+.centre{
+    text-align: center;
+}
